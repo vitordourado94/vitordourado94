@@ -2,10 +2,8 @@
 
  <div>
    <a href="https://github.com/vitordourado94">
-   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vitordourado94&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+   <img height="180" src="https://github-readme-stats-two-mauve-47.vercel.app/api?username=vitordourado94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180" src="https://github-readme-stats-two-mauve-47.vercel.app/api/top-langs/?username=vitordourado94&layout=compact&langs_count=6&theme=tokyonight"/>
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vitordourado94&show_icons=true"
